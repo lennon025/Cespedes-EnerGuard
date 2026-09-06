@@ -1,4 +1,4 @@
-# 🧊 Cespedes.EnerGuard – Control de Refrigerador y Vigilante Energético
+#Cespedes EnerGuard – Control de Refrigerador y Vigilante Energético
 
 [🇷🇺 Русская версия ниже](#-русская-версия)
 
@@ -68,7 +68,7 @@ Sistema para mantener un refrigerador de 12V funcionando con **red eléctrica o 
 
 # 🇷🇺 Русская версия
 
-# 🧊 Cespedes.EnerGuard – Управление холодильником и энергетический страж
+# Cespedes EnerGuard – Управление холодильником и энергетический страж
 
 Система для поддержания работы автомобильного холодильника 12В от **сети или аккумулятора**, с сигнализациями **дыма** и **взлома**, а также контролем **температуры**.
 
