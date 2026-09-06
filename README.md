@@ -1,7 +1,5 @@
 # Cespedes EnerGuard – Control de Refrigerador y Vigilante Energético
 
-[🇷🇺 Русская версия ниже](#-русская-версия)
-
 Sistema para mantener un refrigerador de 12V funcionando con **red eléctrica o batería**, con alarmas de **humo** /**antirrobo**, y control de **temperatura**.
 
 ---
@@ -115,6 +113,14 @@ Sistema para mantener un refrigerador de 12V funcionando con **red eléctrica o 
 > 🔥 **Разместите датчик MQ-2 рядом с аккумулятором** для своевременного обнаружения дыма.
 
 ---
+<img width="750" height="1000" alt="01" src="https://github.com/user-attachments/assets/b5bb0fdb-f39c-43b0-9afe-ce4504b2827c" />
+<img width="750" height="1000" alt="02" src="https://github.com/user-attachments/assets/d524baee-9d30-4190-9e1c-c5f0468dceeb" />
+<img width="607" height="1080" alt="03" src="https://github.com/user-attachments/assets/62424f88-fc2f-4050-9878-898b633ebb8a" />
+<img width="607" height="1080" alt="04" src="https://github.com/user-attachments/assets/980885cf-6e76-4a38-ad45-944889443fe7" />
+<img width="607" height="1080" alt="05" src="https://github.com/user-attachments/assets/ac5184ea-b23f-401c-84fc-b042348ea084" />
+<img width="1080" height="607" alt="06" src="https://github.com/user-attachments/assets/a7689437-495d-4f65-96f6-2cecd9ec9e78" />
+<img width="1080" height="607" alt="07" src="https://github.com/user-attachments/assets/e1c865b9-6153-4f5f-aab5-c380136eb309" />
+<img width="607" height="1080" alt="08" src="https://github.com/user-attachments/assets/1af3946a-7852-4a81-abaa-eb5557575b51" />
 
 markdown
 ## 👤 Autor
