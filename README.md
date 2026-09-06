@@ -1,4 +1,4 @@
-#Cespedes EnerGuard – Control de Refrigerador y Vigilante Energético
+# Cespedes EnerGuard – Control de Refrigerador y Vigilante Energético
 
 [🇷🇺 Русская версия ниже](#-русская-версия)
 
@@ -62,11 +62,7 @@ Sistema para mantener un refrigerador de 12V funcionando con **red eléctrica o 
 
 **Leno Perdomo Céspedes** – Sistema diseñado para proteger una casa en Cuba, combinando ingenio, energía y seguridad.
 
----
 
----
-
-# 🇷🇺 Русская версия
 
 # Cespedes EnerGuard – Управление холодильником и энергетический страж
 
