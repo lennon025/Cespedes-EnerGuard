@@ -117,9 +117,7 @@ Sistema para mantener un refrigerador de 12V funcionando con **red eléctrica o 
 <img width="750" height="1000" alt="01" src="https://github.com/user-attachments/assets/bcaf542c-9a81-42ce-8033-c7749dc64d48" />
 <img width="750" height="1000" alt="02" src="https://github.com/user-attachments/assets/69af65bf-9d01-40fe-b7f7-3b7fe3e7ea57" />
 <img width="607" height="1080" alt="03" src="https://github.com/user-attachments/assets/4d95c7e6-f6df-44fc-9b63-f425f8ea3be5" />
-<img width="604" height="811" alt="04" src="https://github.com/user-attachments/assets/84e4b224-8159-46fe-bad7-311948b48d9d" />
-<img width="590" height="431" alt="05" src="https://github.com/user-attachments/assets/d0b94290-eb68-41d2-9eb5-3ce0b91df793" />
-<img width="539" height="717" alt="06" src="https://github.com/user-attachments/assets/312746b9-62a6-41db-9218-5a905539fc0b" />
+
 
 markdown
 ## 👤 Autor
