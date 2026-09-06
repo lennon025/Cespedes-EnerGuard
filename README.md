@@ -58,12 +58,6 @@ Sistema para mantener un refrigerador de 12V funcionando con **red eléctrica o 
 
 ---
 
-## 📝 Autor
-
-**Leno Perdomo Céspedes** – Sistema diseñado para proteger una casa en Cuba, combinando ingenio, energía y seguridad.
-
-
-
 # Cespedes EnerGuard – Управление холодильником и энергетический страж
 
 Система для поддержания работы автомобильного холодильника 12В от **сети или аккумулятора**, с сигнализациями **дыма** и **взлома**, а также контролем **температуры**.
@@ -122,6 +116,10 @@ Sistema para mantener un refrigerador de 12V funcionando con **red eléctrica o 
 
 ---
 
-## 📝 Автор
+markdown
+## 👤 Autor
 
-**Пердомо Сеспедес Лено** – Система создана для защиты дома на Кубе, сочетая изобретательность, energía y безопасность.
+**Leno Perdomo Céspedes**  
+[GitHub](https://github.com/lennon025) · [Email](mailto:lennon.perdomocespedes@gmail.com)
+
+*Siempre pensando en mi Cuba, desde Moscú, Rusia.*
