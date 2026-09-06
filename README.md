@@ -125,4 +125,3 @@ Sistema para mantener un refrigerador de 12V funcionando con **red eléctrica o 
 ## 📝 Автор
 
 **Пердомо Сеспедес Лено** – Система создана для защиты дома на Кубе, сочетая изобретательность, energía y безопасность.
-# Cespedes-EnerGuard-
